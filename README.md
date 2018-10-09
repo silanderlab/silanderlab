@@ -1,11 +1,6 @@
-# The Drummond Lab main website
+# Silander Lab main website
 
 ##
-
-
-### TODOS
-
-See Issues on [the site](https://github.com/drummondlab/drummondlab.github.io).
 
 ## How to add content
 
