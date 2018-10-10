@@ -30,17 +30,5 @@
 /misc/home/home
 /misc/about
 /papers/paper/ecoli-microfluidics
-/blog/about-adaptive-phase-separation
-/blog/Pab1-Demixing-FAQ
-/protocols/protocol/rnatagseq-library-prep
-/protocols/protocol/yeast-rna-isolation
-/protocols/protocol/sucrose-gradient
-/protocols/protocol/rna-blot
-/protocols/protocol/yeast-lysis
 /data/postheat-disaggregation-yeast-visualization
 /data/heat-aggregation-yeast-visualization
-/protocols/protocol/chloroform-methanol-precipitation
-/projects/project/selection-on-translation
-/projects/project/misfolding-and-expression
-/projects/project/assembly-engineering
-/projects/project/stress-agg
