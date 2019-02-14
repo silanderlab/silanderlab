@@ -12,7 +12,7 @@ image: /assets/images/team/olin.png
 cv: /assets/pdfs/silander-cv.pdf
 alum: false
 ---
-I am a Senior Lecturer in Genetics at the [Institute of Natural and Mathematical Sciences](http://www.massey.ac.nz/massey/explore/departments/institute-natural-mathematical-sciences/institute-natural-mathematical-sciences_home.cfm).
+I am a Senior Lecturer in Genetics at the [School of Natural and Computational Sciences](http://www.massey.ac.nz/massey/explore/departments/institute-natural-mathematical-sciences/institute-natural-mathematical-sciences_home.cfm).
 
 My research focuses on microbial evolution. Current projects include:
 1. How gene expression noice evolves
